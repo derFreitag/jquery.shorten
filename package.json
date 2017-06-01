@@ -1,6 +1,6 @@
 {
     "name" : "jquery.shorten", 
-    "description" : "jQuery plugin to automatically shorten text in a DIV and add 'show more' link."
+    "description" : "jQuery plugin to automatically shorten text in a DIV and add 'show more' link.",
     "homepage" : "http://viralpatel.net",
     "version" : "1.1.0",
     "contributors" : [],
