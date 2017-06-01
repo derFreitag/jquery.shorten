@@ -1,0 +1,16 @@
+{
+    "name" : "jquery.shorten", 
+    "description" : "jQuery plugin to automatically shorten text in a DIV and add 'show more' link.",
+    "homepage" : "http://viralpatel.net",
+    "version" : "1.1.0",
+    "contributors" : [],
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/derFreitag/jquery.shorten.git"
+    },
+    "bugs" : "https://github.com/derFreitag/jquery.shorten/issues",
+    "main": "src/jquery.shorten.js",
+    "dependencies": {
+	"jquery": "^1.4.2"
+    }
+}
